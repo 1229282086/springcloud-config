@@ -1,0 +1,2 @@
+# springcloud-config
+用来测试springcloud的config配置中心微服务的一个仓库
